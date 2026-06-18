@@ -25,8 +25,8 @@ st.markdown("""
 st.divider()
 st.subheader("FORMATIONS")
 st.markdown("""
-* 2021-2022: Baccalaureat 
+* 2025-2026: Master en Amenagement des Gestions Urbaines en Afrique
 * 2024-2025: Licence en Geographie à l'Université Cheikh Anta Diop de Dakar
 * 2025-2026: Brevet de Technicien Superieur en Geomatique 
-* 2025-2026: Master en Amenagement des Gestions Urbaines en Afrique
+* 2021-2022: Bacalauréat
 """)
